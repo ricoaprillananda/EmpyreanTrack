@@ -64,7 +64,7 @@ SET SERVEROUTPUT ON;
 EXEC Calculate_Total_Salary(1);
 ```
 
-## Example Output
+### Example Output
 
 ```rust
 Total Salary for Department 1 = 11700
@@ -75,8 +75,7 @@ No salary data found for department 99
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE
- file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 

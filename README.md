@@ -81,4 +81,4 @@ This project is licensed under the MIT License. See the LICENSE
 ---
 
 ## Author
-Created by Rico APrilla Nanda
+Created by Rico Aprilla Nanda
